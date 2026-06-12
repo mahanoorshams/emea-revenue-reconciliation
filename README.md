@@ -82,6 +82,12 @@ Rows with missing invoice amounts are included with a status of Missing Invoice 
 
 ---
 
+## How this was built (AI transparency)
+
+I used Claude as a pair-analyst on this project — pressure-testing the cleaning rules, sanity-checking the FX conversion logic, and speeding up this documentation. The reconciliation design, the Excel build, and the validation of every figure are my own. I treat AI the way I treat any analyst tool: it accelerates the work, it doesn't replace the judgement.
+
+---
+
 ## Files
 
 | File | Description |
